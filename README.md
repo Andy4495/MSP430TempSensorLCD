@@ -2,7 +2,7 @@
 
 [![Arduino Compile Sketches](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/arduino-compile-sketches-matrix-build.yml/badge.svg)](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/arduino-compile-sketches-matrix-build.yml)
 [![Check Markdown Links](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/CheckMarkdownLinks.yml/badge.svg)](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/CheckMarkdownLinks.yml)
-      https://github.com/Andy4495/MSPTempSensorLCD/actions/workflows/CheckMarkdownLinks.yml
+
 This is another iteration of my Temperature Sensor sketches (see [References](#references) below). This sketch takes advantage of the built-in LCD on the [FR4133][1] and [FR6989][2] LaunchPads, but will also work with any of the other MSP430 LaunchPads.
 
 It is specifically written to use the [Fuel Tank I][3] BoosterPack as a power source, but will also work without it by commenting out the line:
