@@ -28,7 +28,7 @@ The software and other files in this repository are released under what is commo
 
 [1]: https://www.ti.com/tool/MSP-EXP430FR4133
 [2]: https://www.ti.com/tool/MSP-EXP430FR6989
-[3]: https://www.ti.com/tool/BOOSTXL-BATTPACK
+[3]: https://www.ti.com/lit/ug/slvua32/slvua32.pdf
 [4]: https://github.com/Andy4495/SWI2C
 [5]: https://github.com/Andy4495/MspTandV
 [6]: https://github.com/Andy4495/MSP430LowPowerTempSensor
@@ -38,4 +38,5 @@ The software and other files in this repository are released under what is commo
 [101]: ./LICENSE.txt
 [//]: # ([200]: https://github.com/Andy4495/MSP430TempSensorLCD)
 
+[//]: # ( Former reference [3]: https://www.ti.com/tool/BOOSTXL-BATTPACK )
 [//]: # (This is a way to hack a comment in Markdown. This will not be displayed when rendered.)
