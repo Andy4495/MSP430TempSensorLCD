@@ -1,7 +1,7 @@
 # MSP430 Temp Sensor with Built-in LCD Display
 
 [![Arduino Compile Sketches](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/arduino-compile-sketches.yml/badge.svg)](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/arduino-compile-sketches.yml)
-[![Check Markdown Links](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/CheckMarkdownLinks.yml/badge.svg)](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/CheckMarkdownLinks.yml)
+[![Check Markdown Links](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/check-links.yml/badge.svg)](https://github.com/Andy4495/MSP430TempSensorLCD/actions/workflows/check-links.yml)
 
 This is another iteration of my Temperature Sensor sketches (see [References](#references) below). This sketch takes advantage of the built-in LCD on the [FR4133][1] and [FR6989][2] LaunchPads, but will also work with any of the other MSP430 LaunchPads.
 
